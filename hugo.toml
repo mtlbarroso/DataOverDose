@@ -1,0 +1,60 @@
+baseURL = "https://mtlbarroso.github.io/dataoverdose/"
+languageCode = "en-us"
+title = "Data Over Dose"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+pygmentsUseClasses = true
+# pygmentsCodeFences = true
+# pygmentsContainerClasses = "highlight"
+# pygmentsStyle = "monokai" # You can choose your preferred style
+
+# Social media icons in the footer (optional)
+[params.socialIcons]
+  # github = "your_github_username"
+  # linkedin = "your_linkedin_username"
+  # twitter = "your_twitter_username"
+
+[menu]
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 10
+  [[menu.main]]
+    identifier = "portfolio"
+    name = "Portfolio"
+    url = "/portfolio/"
+    weight = 20
+
+[params]
+  homeInfoParams.Title = "Welcome to Data Over Dose"
+  homeInfoParams.Content = "Exploring the intersection of Machine Learning, Deep Learning, and the Healthcare Industry. From diagnostics to drug discovery, join me in understanding how data is revolutionizing health."
+  defaultTheme = "auto" # or "dark" or "light"
+  disableThemeToggle = false
+  ShowShareButtons = true
+  ShowReadingTime = true
+  disableScrollToTop = false
+  ShowRss = true
+  Toc = true
+
+  [params.assets]
+    favicon = "<link / path>" # Optional: path to your favicon
+    favicon16x16 = "<link / path>"
+    favicon32x32 = "<link / path>"
+    apple_touch_icon = "<link / path>"
+    safari_pinned_tab = "<link / path>"
+
+  [params.cover]
+    link = "" # If you want to link the home image to a specific page
+    alt = "" # alt text for home image
+    hidden = false # Set to true to hide the home image
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"

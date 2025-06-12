@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on Data Over Dose</title>
+    <link>//localhost:1313/categories/blog/</link>
+    <description>Recent content in Blog on Data Over Dose</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 May 2025 14:30:00 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Revolutionizing Drug Discovery: How Deep Learning Accelerates Innovation</title>
+      <link>//localhost:1313/blog/revolutionizing-drug-discovery-how-deep-learning-accelerates-innovation/</link>
+      <pubDate>Tue, 20 May 2025 14:30:00 +0100</pubDate>
+      <guid>//localhost:1313/blog/revolutionizing-drug-discovery-how-deep-learning-accelerates-innovation/</guid>
+      <description>Discover how Deep Learning is transforming the laborious process of drug discovery, from target identification to lead optimization.</description>
+    </item>
+  </channel>
+</rss>

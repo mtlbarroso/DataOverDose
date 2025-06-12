@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Predictive Models on Data Over Dose</title>
+    <link>//localhost:1313/tags/predictive-models/</link>
+    <description>Recent content in Predictive Models on Data Over Dose</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2024 09:00:00 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/predictive-models/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Predictive Analytics for Early Disease Detection</title>
+      <link>//localhost:1313/portfolio/predictive-analytics-for-early-disease-detection/</link>
+      <pubDate>Fri, 01 Nov 2024 09:00:00 +0100</pubDate>
+      <guid>//localhost:1313/portfolio/predictive-analytics-for-early-disease-detection/</guid>
+      <description>Developed a machine learning model to predict the early onset of chronic diseases based on patient historical data.</description>
+    </item>
+  </channel>
+</rss>
